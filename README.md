@@ -1,3 +1,6 @@
+#100% of these links go to broken websites, OR the project has been (or always was) written in Golang. 
+#I'm not certain why all of these are in Go instead of Cobol as described, but please resolve this issue. 
+
 # Awesome Cobol
 
 A curated list of awesome Cobol frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
